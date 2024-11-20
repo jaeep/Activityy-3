@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int main() 
+{
+    int num = 19;
+    while(num < 37){
+        cout <<"Number : "<<num<<endl;
+        num+= 1;
+    }
+    return 0;
+}
